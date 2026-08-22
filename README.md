@@ -5,6 +5,9 @@ Hi 👋, I'm Vidhi Khurana
 🌱 Currently learning Data Structures & Algorithms
 ⚛️ Building projects using React, Node.js and MongoDB
 
+
+
+
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNhNzY0OWU2N2RjYjYwYmU4OTMyM2M2ZjNjZjYzOTJkNzI4N2YxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif">
 
 ## 👩‍💻 About Me
