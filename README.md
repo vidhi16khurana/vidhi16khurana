@@ -20,19 +20,29 @@
 
 <!-- =========================== ABOUT =========================== -->
 
-<img align="right" alt="Coding" width="300" height="180" style="margin-top: 60px;"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwZ2NqMm1iNGl5OXIydHM3dHEzeTB1ZXp3cWFhaWZpNThkaTVsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
-
 ## 👩‍💻 About Me
 
-* 🎓 Computer Science Engineering Student
-* 💻 Passionate about Software Development & Full Stack Development
-* ☕ Building strong problem-solving skills using **Java & DSA**
-* ⚛️ Building modern applications using the **MERN Stack**
-* 🤖 Exploring **Artificial Intelligence & Generative AI**
-* 🌱 Always learning, building and improving
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<br clear="both"/>
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Software Development & Full Stack Development
+- ☕ Building strong problem-solving skills using **Java & DSA**
+- ⚛️ Building modern applications using the **MERN Stack**
+- 🤖 Exploring **Artificial Intelligence & Generative AI**
+- 🌱 Always learning, building and improving
+
+</td>
+
+<td width="40%" valign="middle">
+
+<img alt="Coding" width="300" height="250"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwZ2NqMm1iNGl5OXIydHM3dHEzeTB1ZXp3cWFhaWZpNThkaTVsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 <!-- =========================== TECH STACK =========================== -->
 
