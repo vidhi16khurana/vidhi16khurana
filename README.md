@@ -19,9 +19,6 @@ Hi 👋, I'm Vidhi Khurana
 - 🚀 Open to learning, building and collaborating on interesting projects
 
 
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
