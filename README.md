@@ -5,24 +5,6 @@ Hi 👋, I'm Vidhi Khurana
 🌱 Currently learning Data Structures & Algorithms
 ⚛️ Building projects using React, Node.js and MongoDB
 
-<!--
-**vidhi16khurana/vidhi16khurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi 👋, I'm Vidhi Khurana
-
-### 👩‍💻 Computer Science Engineering Student | Java & MERN Stack Developer | Aspiring Software Developer
-
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNhNzY0OWU2N2RjYjYwYmU4OTMyM2M2ZjNjZjYzOTJkNzI4N2YxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif">
 
 ## 👩‍💻 About Me
@@ -129,19 +111,6 @@ A full-stack CRUD application for managing daily tasks efficiently.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidhi16khurana&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhi16khurana&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi16khurana&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🧩 Coding & DSA
 
 - 💡 Practicing **Data Structures and Algorithms in Java**
@@ -161,7 +130,6 @@ A full-stack CRUD application for managing daily tasks efficiently.
 
 # 🌱 Currently Learning
 
-```text
 
 ☕ Advanced Java
 📚 Data Structures & Algorithms
@@ -170,6 +138,9 @@ A full-stack CRUD application for managing daily tasks efficiently.
 🤖 Artificial Intelligence
 ☁️ Cloud Technologies
 
+
+---
+# 📫 Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/vidhi-khurana16">
@@ -180,3 +151,6 @@ A full-stack CRUD application for managing daily tasks efficiently.
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
+
+
+
