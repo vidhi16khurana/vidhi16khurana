@@ -6,7 +6,7 @@
 ⚛️ Building projects using React, Node.js and MongoDB
 
 ## 👩‍💻 About Me
-  <p><img align="right" alt="Coding" width="350" height="150" style="margin-top: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwZ2NqMm1iNGl5OXIydHM3dHEzeTB1ZXp3cWFhaWZpNThkaTVsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"></p>
+  <p><img align="right" alt="Coding" width="350" height="200" style="margin-top: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwZ2NqMm1iNGl5OXIydHM3dHEzeTB1ZXp3cWFhaWZpNThkaTVsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"></p>
 
 - 🎓 Computer Science Engineering Student
 - 💻 Passionate about Software Development and Web Development
