@@ -20,7 +20,8 @@
 
 <!-- =========================== ABOUT =========================== -->
 
-<img align="right" alt="Coding" width="300" height="180"
+<img align="right" alt="Coding" width="300" height="180 
+  style="margin-top: 60px;"
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwZ2NqMm1iNGl5OXIydHM3dHEzeTB1ZXp3cWFhaWZpNThkaTVsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 ## 👩‍💻 About Me
@@ -136,11 +137,11 @@ A full-stack CRUD application that helps users manage daily tasks efficiently.
 ## 📫 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/vidhi-khurana16">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:vidhikhurana16@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
