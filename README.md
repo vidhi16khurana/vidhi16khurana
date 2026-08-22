@@ -1,4 +1,4 @@
-Hi 👋, I'm Vidhi Khurana
+## Hi 👋, I'm Vidhi Khurana
 
 💻 Computer Science Engineering Student
 🚀 Aspiring Software Developer
@@ -7,6 +7,8 @@ Hi 👋, I'm Vidhi Khurana
 
 
 <img align="right" alt="Coding" width="350" height="250" style="margin-top: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwZ2NqMm1iNGl5OXIydHM3dHEzeTB1ZXp3cWFhaWZpNThkaTVsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
+
+---
 
 ## 👩‍💻 About Me
 
@@ -18,6 +20,7 @@ Hi 👋, I'm Vidhi Khurana
 - 🌱 Currently improving my problem-solving and development skills
 - 🚀 Open to learning, building and collaborating on interesting projects
 
+---
 
 ## 🛠️ Tech Stack
 
