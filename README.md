@@ -5,7 +5,8 @@
 🌱 Currently learning Data Structures & Algorithms
 ⚛️ Building projects using React, Node.js and MongoDB
 
---- 
+
+
 <img align="right" alt="Coding" width="350" height="250" style="margin-top: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwZ2NqMm1iNGl5OXIydHM3dHEzeTB1ZXp3cWFhaWZpNThkaTVsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 ## 👩‍💻 About Me
