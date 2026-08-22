@@ -1,9 +1,9 @@
-## Hi 👋, I'm Vidhi Khurana
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=180&section=header&text=Hi%20I%20am%20Vidhi%20Khurana&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-💻 Computer Science Engineering Student
-🚀 Aspiring Software Developer
-🌱 Currently learning Data Structures & Algorithms
-⚛️ Building projects using React, Node.js and MongoDB
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+%26+MERN+Stack+Developer;DSA+Enthusiast;Building+AI-Powered+Applications" />
+</p>
 
 ## 👩‍💻 About Me
   <p><img align="right" alt="Coding" width="350" height="180" style="margin-top: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwZ2NqMm1iNGl5OXIydHM3dHEzeTB1ZXp3cWFhaWZpNThkaTVsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"></p>
@@ -15,11 +15,20 @@
 - 🤖 Exploring **Artificial Intelligence and Generative AI**
 - 🌱 Currently improving my problem-solving and development skills
 - 🚀 Open to learning, building and collaborating on interesting projects
+- ⚡ **Fun Fact:** Sometimes I choose **jugaad over logic and somehow, it works!** 😄😄
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vidhi16khurana/vidhi16khurana/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vidhi16khurana&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -97,6 +106,30 @@ A full-stack CRUD application for managing daily tasks efficiently.
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vidhi16khurana&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Vidhi's GitHub Stats"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vidhi16khurana&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi16khurana&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
 # 🧩 Coding & DSA
 
 - 💡 Practicing **Data Structures and Algorithms in Java**
@@ -125,6 +158,10 @@ A full-stack CRUD application for managing daily tasks efficiently.
 
 
 ---
+
+
+
+
 # 📫 Connect With Me
 
 <p>
@@ -137,5 +174,6 @@ A full-stack CRUD application for managing daily tasks efficiently.
 </a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=80&section=footer" width="100%"/>
 
 
