@@ -112,25 +112,10 @@ A full-stack CRUD application that helps users manage daily tasks efficiently.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vidhi16khurana&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-
   <img
     src="https://streak-stats.demolab.com?user=vidhi16khurana&theme=tokyonight&hide_border=true"
     height="170"
     alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhi16khurana&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
   />
 </p>
 
