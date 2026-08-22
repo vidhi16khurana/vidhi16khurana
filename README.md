@@ -32,7 +32,7 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
 </p>
 
 ### 🗄️ Databases
@@ -44,7 +44,7 @@
 ### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,fastapi,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,fastapi,vscode" />
 </p>
 
 ---
@@ -80,20 +80,6 @@ A role-based learning and resource-sharing platform where users can access and s
 - 🔗 REST APIs
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js
-
----
-
-### 📊 Web Traffic Analysis Dashboard
-
-A data analysis dashboard that visualizes website traffic and uses numerical interpolation techniques to analyze and forecast visitor trends.
-
-**Features:**
-- 📈 Traffic Data Visualization
-- 🔢 Numerical Interpolation
-- 📊 Interactive Dashboard
-- 🔮 Traffic Trend Analysis
-
-**Tech Stack:** Python, Flask, Pandas, Chart.js
 
 ---
 
@@ -134,7 +120,6 @@ A full-stack CRUD application for managing daily tasks efficiently.
 ☕ Advanced Java
 📚 Data Structures & Algorithms
 ⚛️ Advanced React
-🐳 Docker & Deployment
 🤖 Artificial Intelligence
 ☁️ Cloud Technologies
 
