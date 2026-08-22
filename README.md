@@ -20,7 +20,7 @@
 
 <!-- =========================== ABOUT =========================== -->
 
-<img align="right" alt="Coding" width="300" height="250"
+<img align="right" alt="Coding" width="300" height="180"
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwZ2NqMm1iNGl5OXIydHM3dHEzeTB1ZXp3cWFhaWZpNThkaTVsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 ## 👩‍💻 About Me
