@@ -83,6 +83,8 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 [Live Demo](https://vidhi-khurana.vercel.app/) | 🔗 [GitHub Repository](https://github.com/vidhi16khurana/personal-portfolio)
 
+---
+
 
 ### 🤖 AI Interview Coach
 
