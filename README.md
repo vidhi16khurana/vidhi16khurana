@@ -76,13 +76,20 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThwZ2NqMm1iNGl5OXIydHM3dH
 
 ## 🚀 Featured Projects
 
+### 📝 Personal Portfolio Website 
+A modern and responsive personal portfolio website built to showcase my skills, projects, professional experience, and contact information.
+
+**Tech Stack:** React.js, Javascript, HTML5, CSS, Tailwind CSS
+
+[Live Demo](https://vidhi-khurana.vercel.app/) | 🔗 [GitHub Repository](https://github.com/vidhi16khurana/personal-portfolio)
+
+
 ### 🤖 AI Interview Coach
 
 An AI-powered platform designed to help users prepare for interviews through resume analysis, interview question generation and answer evaluation.
 
 **Tech Stack:** React, FastAPI, Python, Gemini AI
 
-🔗 [Live Demo](https://ai-interview-coach-nine-flame.vercel.app) | 🔗 [GitHub Repository](https://github.com/vidhi16khurana)
 
 ---
 
@@ -102,12 +109,6 @@ A data visualization dashboard that analyzes website traffic and uses numerical 
 
 ---
 
-### 📝 Personal Portfolio Website 
-A modern and responsive personal portfolio website built to showcase my skills, projects, professional experience, and contact information.
-
-**Tech Stack:** React.js, Javascript, HTML5, CSS, Tailwind CSS
-
-[Live Demo](https://vidhi-khurana.vercel.app/) | 🔗 [GitHub Repository](https://github.com/vidhi16khurana/personal-portfolio)
 
 
 <!-- =========================== GITHUB STATS =========================== -->
