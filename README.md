@@ -102,11 +102,13 @@ A data visualization dashboard that analyzes website traffic and uses numerical 
 
 ---
 
-### 📝 Full Stack Todo Application
+### 📝 Personal Portfolio Website 
+A modern and responsive personal portfolio website built to showcase my skills, projects, professional experience, and contact information.
 
-A full-stack CRUD application that helps users manage daily tasks efficiently.
+**Tech Stack:** React.js, Javascript, HTML5, CSS, Tailwind CSS
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+[Live Demo](https://vidhi-khurana.vercel.app/) | 🔗 [GitHub Repository](https://github.com/vidhi16khurana/personal-portfolio)
+
 
 <!-- =========================== GITHUB STATS =========================== -->
 
